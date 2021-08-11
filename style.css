@@ -1,0 +1,19 @@
+input {
+  border: 3px solid #0077ff8a;
+}
+textarea {
+  border: 3px solid #0077ff8e;
+}
+html {
+  width: 400px;
+}
+fieldset {
+  border: 2px solid rgb(3, 3, 3);
+}
+button {
+  margin: 20px;
+  margin-left: 50px;
+  font-family: cursive;
+  background-color: #0075ff;
+  color: white;
+}
